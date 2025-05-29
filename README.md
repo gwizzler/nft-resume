@@ -11,7 +11,7 @@ In January I built this NFT system to learn about the managment of hydroponic sy
 
 The most intruiging aspect of plant care and biology to me are the nutrient profiles required during certain stages of growth.
 
-I did not want to purchase a static fertilizer product and make do with suboptimal nutrient profiles. One of my early goals in this project was to understand the base elements of a hydroponic nutrient soloution/product and be able to replicate it on demand with limited resources. I also wanted to be confident that the soloutions were functional and proven.
+I did not want to purchase a static fertilizer product and make do with suboptimal nutrient profiles. One of my early goals in this project was to understand the base elements of a hydroponic nutrient soloution/product and be able to replicate it on demand with limited resources. I also wanted to be confident that the soloutions were functional and proven. I was also interested in reverse engineering off the shelf products to better understand what they are doing and why.
 
 Early on in my journey I discovered HydroBuddy and that tool allowed me to understand far better the base macro/micronutrients and their role in plant health. I found that most plants had ebooks published that were very easy to find online and those books contained information and nutrient profiles for specific plants.
 ##### Tomato example
@@ -25,4 +25,29 @@ View reported nutrient profile.
 Build nutrient soloution with hydrobuddy.
 ![image](https://github.com/user-attachments/assets/b9292a68-6290-4125-a7a1-af1e4d197208)
 
-Begin growing plants and watch closely for any problems and troubleshoot as required.
+Begin growing plants and watch closely for any problems then troubleshoot as required.
+
+I make my nutrients with MKP, Magnesium Sulphate, Calcium nirate and Potassium nitrate. I use cheap manutec micronutrients that aren't very ph stable at the moment but I'm trying to source more PH stable micronutrients.
+
+## Problems, Soloutions and Concerns
+#### Netcups
+Netcups don't reach the bottom, meaning the system was best suiting being angled into a deep flow technique system. Other cups would fix this.
+
+#### Medium
+I use coco coir and have some problems with it. Using vermiculite and some basic filters would solve this.
+
+#### Temperature
+
+In the heat of the summer sun, the plants can wilt. They also slow down in winter. I hoped to build a greenhouse or hoophouse around it but didn't see it as quite worthwhile considering the price.
+
+#### Water return
+
+I used the same cheap irrigation hose and gratuitous amounts of silicone sealants to make it watertight. I should have rather left it more open and not done ends. I should have a single pvc return pipe instead of multiple disperate hoses.
+
+#### Nutrient soloution
+
+I am using a nutrient profile from [this ebook](https://www.purdue.edu/hla/sites/master-gardener/wp-content/uploads/sites/9/2022/10/Guide-To-Home-Hydroponics-For-Leafy-Greens-Ronzoni-and-Mattson-2020.pdf). The Modified Sonneveld solution. It's suitable for lettuce but not kale, for example. They are struggling and I would need to have individual resovoirs/channels in order to fix it.
+
+# Plant propagation experience
+
+I have grown tomatoes and rooted cuttings to multiply them rather than starting from seed. I don't find it particularly difficult to understand tasks.
