@@ -29,7 +29,7 @@ Begin growing plants and watch closely for any problems then troubleshoot as req
 
 I make my nutrients with MKP, Magnesium Sulphate, Calcium nirate and Potassium nitrate. I use cheap manutec micronutrients that aren't very ph stable at the moment but I'm trying to source more PH stable micronutrients.
 
-## Problems, Soloutions and Concerns
+## Problems, Solutions and Concerns
 #### Netcups
 Netcups don't reach the bottom, meaning the system was best suiting being angled into a deep flow technique system. Other cups would fix this.
 
@@ -57,7 +57,7 @@ Algae hasn't been a problem since I built this half way through summer and misse
 At a certain point early in my managment of the system I used too much phosphoric acid/PH down and the ph went very low for a day. I put the ph back in range but the plants were not happy as I believe micronutrients had percipitated out. I managed the system for a number of days watching the plants go bad before I changed the resovoir and they went back to normal. Since then I've been very careful to keep ph in reasonable ranges, not change it too much at a time and to always check before/after an addition and to make note of it where appropriate. This is also what woke me up to how poor my micronutrients were and I've begun sourcing each element.
 
 
-#### Nutrient soloution
+#### Nutrient solution
 
 I am using a nutrient profile from [this ebook](https://www.purdue.edu/hla/sites/master-gardener/wp-content/uploads/sites/9/2022/10/Guide-To-Home-Hydroponics-For-Leafy-Greens-Ronzoni-and-Mattson-2020.pdf). The Modified Sonneveld solution. It's suitable for lettuce but not kale, for example. They are struggling and I would need to have individual resovoirs/channels in order to fix it.
 
