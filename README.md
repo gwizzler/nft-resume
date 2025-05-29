@@ -48,6 +48,14 @@ I used the same cheap irrigation hose and gratuitous amounts of silicone sealant
 
 I am using a nutrient profile from [this ebook](https://www.purdue.edu/hla/sites/master-gardener/wp-content/uploads/sites/9/2022/10/Guide-To-Home-Hydroponics-For-Leafy-Greens-Ronzoni-and-Mattson-2020.pdf). The Modified Sonneveld solution. It's suitable for lettuce but not kale, for example. They are struggling and I would need to have individual resovoirs/channels in order to fix it.
 
+#### PH problems
+
+At a certain point early in my managment of the system I used too much phosphoric acid/PH down and the ph went very low for a day. I put the ph back in range but the plants were not happy as I believe micronutrients had percipitated out. I managed the system for a number of days watching the plants go bad before I changed the resovoir and they went back to normal. Since then I've been very careful to keep ph in reasonable ranges, not change it too much at a time and to always check before/after an addition and to make note of it where appropriate. This is also what woke me up to how poor my micronutrients were and I've begun sourcing each element.
+
+#### Seed starting
+
+I'm currently seed starting at the bottom of a small indoor grow tent, in coco coir that is inside netcups. My success rate indoors with controlled enviromentals is significantly higher than outdoors with just the domes on. 
+
 # Plant propagation experience
 
-I have grown tomatoes and rooted cuttings to multiply them rather than starting from seed. I don't find it particularly difficult to understand tasks.
+I have grown tomatoes and rooted cuttings to multiply them rather than starting from seed. I don't find it particularly difficult to understand tasks and I can keep the enviromentals of plants within appropriate parameters if given the instruction and resources required to do so.
