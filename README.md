@@ -75,3 +75,8 @@ I test the ph and EC daily. When the plants are growing very actively there are 
 # Plant propagation experience
 
 I have grown tomatoes and rooted cuttings to multiply them rather than starting from seed. I don't find it particularly difficult to understand tasks and I can keep the enviromentals of plants within appropriate parameters if given the instruction and resources required to do so.
+
+# Organics and soil
+
+I have a basic understanding of soil and organic gardening. I have a basic understanding of what most plants like and I'm comfortable learning on the fly when I find something I'm puzzled by.
+
